@@ -4,7 +4,7 @@ This python module takes a list of 10 Digit NDCs and converts them to 11 digit
 
 ## Getting Started
 
-Example: 
+Format:
 ndc2(csv_path,ndc_varname,out)
 
 example:
